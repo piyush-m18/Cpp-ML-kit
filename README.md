@@ -1,5 +1,5 @@
 # C++ ML kit
-An library that can be included to implement ML algorithm in c++, giving you a boost up and low latency in running ml algo
+An library that can be included to implement ML algorithm in c++, giving you a boost up and low latency in running ml algorithms.
 
 ## File structure
 ```
