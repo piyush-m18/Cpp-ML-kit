@@ -121,13 +121,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
 
-## Contributors
-
-Thanks to the following people who have contributed to this project:
-
-- [@supremeashu](https://github.com/supremeashu) - Project creator and maintainer
-- [@piyushmishra180404](https://github.com/piyushmishra180404) - Documentation improvements
-
 ## Acknowledgments
 
 - Inspired by scikit-learn's API design
